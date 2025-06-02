@@ -51,7 +51,7 @@ logo_path = "meu_dashboard/logo_data.jpeg"
 col1, col2 = st.columns([1, 5])  # Criar colunas para alinhar logo e título
 
 with col1:
-    st.image("logo_data.jpeg", width=100)  # Ajuste o tamanho da imagem
+    st.image(logo_path, width=100)  # Ajuste o tamanho da imagem
 
 with col2:
     st.title("📊 Dashboard de Tuberculose")
