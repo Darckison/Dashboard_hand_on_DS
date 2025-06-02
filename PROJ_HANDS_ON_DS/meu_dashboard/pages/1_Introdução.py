@@ -201,5 +201,4 @@ with col2:
     st.metric("Tratamento Mais Frequente", tratamento_frequente)
     st.metric("Número de Municípios", numero_municipios)
 
-# Gráficos de Análises Visuais
-st.markdown("<h3 style='color: FFFFFF;'>Análise visual</h3><hr style='border: 1px solid #00FFFF;'>", unsafe_allow_html=True)
+
