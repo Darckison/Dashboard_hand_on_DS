@@ -3,6 +3,8 @@ import joblib
 import numpy as np
 import pandas as pd
 
+# pip install joblib -- instalar o joblib --
+
 
 ###################################################]
 # 🔹 CSS para Imagem de Fundo e Opacidade Ajustável
