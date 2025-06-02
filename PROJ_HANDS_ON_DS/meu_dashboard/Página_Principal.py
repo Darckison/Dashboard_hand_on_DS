@@ -45,7 +45,7 @@ st.markdown(
 
 
 # 🔹 Cabeçalho com Imagem da Logo e Título
-logo_path = "meu_dashboard\logo data.jpeg"
+logo_path = "meu_dashboard\logodata.jpeg"
 
 col1, col2 = st.columns([1, 5])  # Criar colunas para alinhar logo e título
 
