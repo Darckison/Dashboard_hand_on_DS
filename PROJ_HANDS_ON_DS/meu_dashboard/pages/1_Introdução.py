@@ -89,10 +89,7 @@ html_code = f"""
         }}
     </style>
         
-        <!-- Letreiro Animado -->
-        <div class="scrolling-text">
-             DADOS DE TUBERCULOSE  DADOS DE TUBERCULOSE DADOS TUBERCULOSE
-        </div>
+       
     </div>
 """
 
